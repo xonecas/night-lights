@@ -1,14 +1,12 @@
 " Vim color file
-" Maintainer:   Your name <youremail@something.com>
-" Last Change:  
-" URL:		
+" Maintainer:   Sean Caetano Martin (@xonecas)
+" URL: xonecas.com
 
 " cool help screens
 " :he group-name
 " :he highlight-groups
 " :he cterm-colors
 
-" your pick:
 set background=dark	" or light
 hi clear
 if exists("syntax_on")
